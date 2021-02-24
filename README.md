@@ -85,4 +85,3 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 ![](https://uploaddeimagens.com.br/images/002/983/594/full/WhatsApp_Image_2020-11-29_at_14.38.32_%281%29.jpeg?1606688544)![](https://uploaddeimagens.com.br/images/002/983/595/full/WhatsApp_Image_2020-11-29_at_14.38.32.jpeg?1606688555) <br>
 ![](https://uploaddeimagens.com.br/images/002/983/597/full/WhatsApp_Image_2020-11-29_at_14.38.33_%282%29.jpeg?160)![](https://uploaddeimagens.com.br/images/002/983/598/full/WhatsApp_Image_2020-11-29_at_14.38.33.jpeg?1606688634) <br>
 ![](https://uploaddeimagens.com.br/images/002/983/596/full/WhatsApp_Image_2020-11-29_at_14.38.33_%281%29.jpeg?160668859)
-
